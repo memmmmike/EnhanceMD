@@ -1,0 +1,22 @@
+{
+  "name": "enhancemd",
+  "version": "1.0.0",
+  "description": "Transform Markdown into Beautiful Documents",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && pnpm dev --port 4444",
+    "build": "cd client && pnpm build",
+    "preview": "cd client && pnpm preview",
+    "install:all": "cd client && pnpm install"
+  },
+  "keywords": [
+    "markdown",
+    "editor",
+    "pdf",
+    "export",
+    "themes",
+    "react"
+  ],
+  "author": "EnhanceMD Team",
+  "license": "MIT"
+}
