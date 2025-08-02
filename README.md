@@ -3,7 +3,7 @@
 Transform your Markdown documents into professional, beautifully formatted outputs with multiple export options. Write once in Markdown, apply stunning themes, and export to various formats.
 
 ![EnhanceMD](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-AGPL--3.0-green.svg)
 ![React](https://img.shields.io/badge/React-19-61dafb.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)
 
@@ -256,7 +256,14 @@ pnpm format
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE](LICENSE) file for details.
+
+### Important License Terms:
+- **Open Source**: You can freely use, modify, and distribute EnhanceMD
+- **Network Copyleft**: If you run EnhanceMD on a server, you MUST provide source code access to users
+- **Share Improvements**: Any modifications must also be licensed under AGPL-3.0
+- **Commercial Use**: Allowed, but must comply with AGPL terms
+- **Why AGPL?**: We believe improvements to EnhanceMD should benefit the entire community
 
 ## Acknowledgments
 
